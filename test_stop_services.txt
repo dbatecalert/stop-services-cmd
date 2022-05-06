@@ -1,0 +1,24 @@
+:: Windows Update Services - primary
+"Update Orchestrator Service"
+"Windows Update"
+"Windows Update Medic Service"
+
+:: Windows Update Services - miscellaneous
+"Microsoft Edge Update Service (edgeupdate)"
+"Microsoft Edge Update Service (edgeupdatem)"
+"Microsoft Update Health Service"
+
+:: Third Party Servicess
+"EasyTune Engine"
+"EasyTuneEngineService"
+"GIGABYTE Adjust"
+"GIGABYTE OC Button Service"
+"GIGABYTE Update Service"
+"Gservice"
+"MSI Central Service"
+"MSI Voice Control Service"
+"MSI_Super_Charger_Service"
+"NVIDIA Display Container LS"
+"NVIDIA FrameView SDK Service"
+"NVIDIA LocalSystem Container"
+"Realtek Audio Universal Service"
