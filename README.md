@@ -28,7 +28,7 @@ Features:
 
 6) Windows automatically logs disabled services to the System Event log.
 
-7) To create a minimal Task Scheduler task select "Run with highest privileges", create a one time trigger to repeat the task every <period> for indefinite duration, and create an action to start the program from an administrative folder.
+7) To create a minimal Task Scheduler task select "Run with highest privileges", create a one time trigger to repeat the task every [period] for indefinite duration, and create an action to start the program from an administrative folder.
   
 8) When running manually or testing as a normal user just click-run on the batch file. After showing a service info summary if there is no work the program will close automatically. Updating running and non-disabled services requires administrative permissions and the batch file will automatically prompt for User Account Control (UAC) permission elevation. Only if
 UAC approved the script will re-run and stop matching services and disable nonprotected services.
